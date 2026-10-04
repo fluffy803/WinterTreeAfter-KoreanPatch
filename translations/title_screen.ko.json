@@ -1,0 +1,6 @@
+{
+ "title_screen.ks:30:48": "",
+ "title_screen.ks:31:48": "[glink  color=\"ts08\"  font_color=\"white\"  text=\"게임 시작\"  x=\"960\"  y=\"20\"  size=\"40\"  target=\"*start\"  graphic=\"blank.png\"  enterimg=\"lig.png\"  ]",
+ "title_screen.ks:32:48": "[glink  color=\"ts08\"  font_color=\"white\"  text=\"진행 불러오기\"  x=\"960\"  y=\"120\"  size=\"40\"  target=\"*load\"  graphic=\"blank.png\"  enterimg=\"lig.png\"  ]",
+ "title_screen.ks:33:48": "[glink  color=\"ts08\"  font_color=\"white\"  text=\"일러스트 감상\"  x=\"960\"  y=\"220\"  size=\"40\"  target=\"*cg\"  graphic=\"blank.png\"  enterimg=\"lig.png\"  ]"
+}

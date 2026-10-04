@@ -1,0 +1,14 @@
+{
+ "staff_screen.ks:6:13": "[layopt layer=0 visible=true]",
+ "staff_screen.ks:7:13": "[mtext text=\"・본 버전은 【AFTER1.0.2】입니다\" x=120 y=110 size=\"32\" in_effect=\"fadeInUp\" out_effect=\"fadeOut\" in_sync=\"true\" out_sync=\"true\" wait=\"false\" time=\"10000\"]",
+ "staff_screen.ks:9:13": "",
+ "staff_screen.ks:10:13": "[mtext text=\"원화・미술 디자인: 瑛砸・久琉霧\" x=120 y=225 size=\"32\" in_effect=\"fadeInUpBig\" out_effect=\"fadeOut\" in_sync=\"true\" out_sync=\"true\" wait=\"false\" time=\"10000\"]",
+ "staff_screen.ks:11:13": "[mtext text=\"협력・배급: MagicaLuv・黎羽科技\" x=120 y=260 size=\"32\" in_effect=\"fadeInUpBig\" out_effect=\"fadeOut\" in_sync=\"true\" out_sync=\"true\" wait=\"false\" time=\"10000\"]",
+ "staff_screen.ks:12:13": "[mtext text=\"CG: 六六七; SD 원화: 羽户\" x=120 y=295 size=\"32\" in_effect=\"fadeInUpBig\" out_effect=\"fadeOut\" in_sync=\"true\" out_sync=\"true\" wait=\"false\" time=\"10000\"]",
+ "staff_screen.ks:13:13": "[mtext text=\"시나리오 개요: 久琉霧, 시나리오: 月谣, 시나리오 수정: 秋秋\" x=120 y=330 size=\"32\" in_effect=\"fadeInUpBig\" out_effect=\"fadeOut\" in_sync=\"true\" out_sync=\"true\" wait=\"false\" time=\"10000\"]",
+ "staff_screen.ks:14:13": "[mtext text=\"프로그램: 禾棉; 테스트: dishing oji、toyako、日蚀、pico\" x=120 y=365 size=\"32\" in_effect=\"fadeInUpBig\" out_effect=\"fadeOut\" in_sync=\"true\" out_sync=\"true\" wait=\"false\" time=\"10000\"]",
+ "staff_screen.ks:15:13": "[mtext text=\"주제곡 오리지널 보컬: yoe awa【https://www.yoeawa.com】\" x=120 y=400 size=\"32\" in_effect=\"fadeInUpBig\" out_effect=\"fadeOut\" in_sync=\"true\" out_sync=\"true\" wait=\"false\" time=\"10000\"]",
+ "staff_screen.ks:16:13": "[mtext text=\"겨울나무 공식 웹사이트: https://www.xwuxwu.com/fuyuki\" x=120 y=440 size=\"32\" in_effect=\"fadeInUpBig\" out_effect=\"fadeOut\" in_sync=\"true\" out_sync=\"true\" wait=\"false\" time=\"10000\"]",
+ "staff_screen.ks:17:13": "[mtext text=\"제작자 홈페이지: https://www.xwuxwu.com/xwu\" x=120 y=480 size=\"32\" in_effect=\"fadeInUpBig\" out_effect=\"fadeOut\" in_sync=\"true\" out_sync=\"true\" wait=\"false\" time=\"10000\"]",
+ "staff_screen.ks:19:13": ""
+}
