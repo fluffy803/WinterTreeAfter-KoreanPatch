@@ -3,7 +3,7 @@
 ![한국어 패치 적용 타이틀 화면](images/title.jpg)
 
 Steam 비주얼 노벨 **冬日树下的回忆AFTER** (겨울나무 아래의 기억 AFTER)의 비공식 한국어 패치입니다.
-- 원작 **冬日树下的回忆**의 한국어 패치는 [별도 저장소](https://github.com/fluffy803/WinterTree-KoreanPatch)에 있습니다.
+- 본편 **冬日树下的回忆**의 한국어 패치는 [별도 저장소](https://github.com/fluffy803/WinterTree-KoreanPatch)에 있습니다.
 
 ## 설치
 
